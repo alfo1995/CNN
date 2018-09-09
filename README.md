@@ -1,5 +1,7 @@
 # CNN - Convolution Neural Network
 
+![alt](https://codetolight.files.wordpress.com/2017/11/network.png?w=1108)
+
 
 The goal of this project is to build up a Convolutional Neural Network (CNN) which analyzes images composed by characters and numbers.
 
