@@ -9,7 +9,7 @@ This CNN has to be able to recognize:
 * which is the font of the image
 * whether the character is bold or not, italic or not
 
-At the beginning we have 94 characters and 28 font and before applying the *augmentation* the number of images is given by $94 \cdot 28 = 2632$.
+At the beginning we have 94 characters and 28 font and before applying the *augmentation* the number of images is given by 94 \cdot 28 = 2632.
 
 
 The *augmentations* we decide to apply to our dataset are the following:
